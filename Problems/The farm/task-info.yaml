@@ -1,0 +1,22 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6534
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 29. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    680
+    Correct output:
+    1 goat
+
+    Your code output:
+    29 chickens
+  time: Sun, 13 Sep 2020 19:26:03 UTC
+record: -1
